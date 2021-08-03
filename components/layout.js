@@ -6,7 +6,7 @@ import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 import Logo from "./logo";
 
-export const siteTitle = "Hello App Runner and Copilot!";
+export const siteTitle = "Hello App Runner!";
 export const topPageMessage = "Let's Get Started! v1";
 
 export default function Layout({ children, home }) {
